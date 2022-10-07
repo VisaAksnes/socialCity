@@ -1,0 +1,13 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.background {
+  height: 100vh;
+  position: absolute;
+  width: 100%;
+  z-index: -2;
+}/*# sourceMappingURL=index.module.css.map */
